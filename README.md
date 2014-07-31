@@ -1,4 +1,4 @@
 web
 ===
 
-Web code
+World Wide Web
